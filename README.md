@@ -12,7 +12,7 @@ KEYS:
     non-HOF: players not nominated or inducted in the Hall of Fame
 
 * The data set was accessed through the Sean Lahman Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
-    * This data set was accessed through MySQL. The dataset covered baseball seasons from 1861 through 2016.
+    * This data set was accessed through MySQL. The dataset covered baseball seasons from 1871 through 2016.
     * Tables primarily used were:
         * Master
         * Batting
